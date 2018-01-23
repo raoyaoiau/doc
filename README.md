@@ -1,6 +1,9 @@
 # doc  如何写好read.md
 各种项目文档的模版。
 
+* [GitHub上的Readme.md](http://blog.csdn.net/kaitiren/article/details/38513715, "sss")
+* [Github编写README.md](https://www.jianshu.com/p/4ace5b250d60, "sss")
+* [如何正确地使用开源项](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661623&idx=1&sn=ab28ac6587e8a5ef1241be7870851355#rd,"sss")
 
 =
 上面是一条直线
