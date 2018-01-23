@@ -1,5 +1,21 @@
 # doc  如何写好read.md
 各种项目文档的模版。
+
+=
+上面是一条直线
+
+---
+上面是一条虚线
+无序列表
+* 图片
+![baidu](www.baidu.com/img/bd_logo1.png)
+* 文字链接
+[baidu](https://www.baidu.com/)
+
+# 一级标题
+## 二级标题
+##### 五级标题
+
 Markdown 语法速查表
 
 1 标题与文字格式
@@ -50,20 +66,7 @@ Markdown 语法速查表
 來源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-=
-上面是一条直线
 
----
-上面是一条虚线
-无序列表
-* 图片
-![baidu](www.baidu.com/img/bd_logo1.png)
-* 文字链接
-[baidu](https://www.baidu.com/)
-
-# 一级标题
-## 二级标题
-##### 五级标题
 
 
 
