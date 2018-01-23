@@ -1,16 +1,21 @@
 # doc  如何写好read.md
 各种项目文档的模版。
 
+
 =
 上面是一条直线
+
+---
+
+***
 
 ---
 上面是一条虚线
 无序列表
 * 图片
-![baidu](www.baidu.com/img/bd_logo1.png)
+![baidu](https://www.baidu.com/img/bd_logo1.png)
 * 文字链接
-[baidu](https://www.baidu.com/)
+[baidu](https://www.baidu.com/  "悬停显示")
 
 # 一级标题
 ## 二级标题
